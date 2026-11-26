@@ -78,5 +78,5 @@ Get-FileHash .\文档处理助手-试用版-v2.3.0.zip -Algorithm SHA256
 
 ## 联系方式
 
-- 激活码 / 商务咨询：`<你的邮箱或联系方式>`
+- 激活码 / 商务咨询：<zhjpanx@126.com>
 - 问题反馈：本仓库 [Issues](https://github.com/zhengj20/DataShield/issues)
