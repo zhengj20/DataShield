@@ -25,6 +25,18 @@
 - **对比与替换**：脱敏前后可对比，支持自定义替换策略
 - **纯本地运行**：所有处理在本地完成，不上传任何文件内容
 
+## 界面预览
+
+| 脱敏工作台 | 快速脱敏 |
+| :---: | :---: |
+| ![脱敏工作台](assets/screenshot-workbench.png) | ![快速脱敏](assets/screenshot-quick.png) |
+| **批量脱敏** | **任务记录** |
+| ![批量脱敏](assets/screenshot-batch.png) | ![任务记录](assets/screenshot-history.png) |
+| **文本校对** | **文档转换** |
+| ![文本校对](assets/screenshot-proofread.png) | ![文档转换](assets/screenshot-convert.png) |
+| **敏感词分类** | **设置中心** |
+| ![敏感词分类](assets/screenshot-categories.png) | ![设置中心](assets/screenshot-settings.png) |
+
 ## 下载
 
 点击右侧 **Releases** 下载最新试用版压缩包：
