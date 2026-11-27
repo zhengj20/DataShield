@@ -5,7 +5,7 @@
 **面向法律与办公场景的敏感信息脱敏工具 · 本地离线处理，文件不出本机**
 
 [![version](https://img.shields.io/badge/version-v2.3.0-2f6feb)](#下载)
-[![download](https://img.shields.io/badge/下载-试用版-brightgreen)](https://github.com/zhengj20/DataShield/releases/latest)
+[![download](https://img.shields.io/badge/下载-试用版-brightgreen)](https://github.com/zhengj20/redactiondesk/releases/latest)
 [![platform](https://img.shields.io/badge/platform-Windows%20x64-lightgrey)](#系统要求)
 
 </div>
@@ -41,7 +41,7 @@
 
 点击右侧 **Releases** 下载最新试用版压缩包：
 
-> https://github.com/zhengj20/DataShield/releases/latest
+> https://github.com/zhengj20/redactiondesk/releases/latest
 
 下载后请核对文件完整性（可选）：
 
@@ -91,4 +91,4 @@ Get-FileHash .\文档处理助手-试用版-v2.3.0.zip -Algorithm SHA256
 ## 联系方式
 
 - 激活码 / 商务咨询：<zhjpanx@126.com>
-- 问题反馈：本仓库 [Issues](https://github.com/zhengj20/DataShield/issues)
+- 问题反馈：本仓库 [Issues](https://github.com/zhengj20/redactiondesk/issues)
