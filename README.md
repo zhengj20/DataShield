@@ -47,7 +47,7 @@
 
 ```powershell
 # 将下载包与 Release 提供的 .sha256.txt 对比
-Get-FileHash .\文档处理助手-试用版-v2.3.0.zip -Algorithm SHA256
+Get-FileHash .\doc-redaction-assistant-trial-v2.3.0.zip -Algorithm SHA256
 ```
 
 ## 安装与启动
